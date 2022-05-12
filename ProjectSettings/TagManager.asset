@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Plat
+  - phoenix
+  - fire
+  - EndPoint
+  - Item
+  - Dead
+  - RestEnemy
+  - Platform
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Grounded
+  - Water
+  - UI
+  - Platform
+  - Enemy
+  - Player
+  - PlayerDamaged
+  - Rain
+  - back
+  - bullet
+  - sadasdads
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Back
+    uniqueID: 2902789397
+    locked: 0
+  - name: BackMiddle
+    uniqueID: 335041123
+    locked: 0
+  - name: Middle
+    uniqueID: 504529933
+    locked: 0
+  - name: Front
+    uniqueID: 2115025255
+    locked: 0

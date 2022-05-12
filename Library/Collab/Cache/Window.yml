@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - "Assets/Audio/11\uC6D4/11\uC6D4 \uBD88 \uBFDC\uB294 \uC18C\uB9AC2.wav"
+    - "Assets/Audio/8\uC6D4/8\uC6D4 \uB178\uB780 \uC0C8 \uC8FD\uB294 \uC18C\uB9AC.wav"
+    - Assets/Scenes/Main.unity
+    - Assets/Scenes/Main.unity.meta
+    - "Assets/Sprites/Monster/Monster12/Boss/Die/\uC624\uB3C4\uB178\uD6C4\uC0AC\uB9DD0001.png"
+    - "Assets/Sprites/Monster/Month8/RedBird/Die/8\uBE68\uAC15\uC0C8\uC0AC\uB9DD0001.png"
+    - "Assets/Sprites/Monster/monster11/\uD654\uC5FC\uBC29\uC0AC(\uC4F8\uC77C\uC788\uC744\uAE4C)/fire.anim.meta"
+    - "Assets/Sprites/Monster/monster11/\uD654\uC5FC\uBC29\uC0AC(\uC4F8\uC77C\uC788\uC744\uAE4C)/\uBD880000.controller"
+    - "Assets/Sprites/gold/\uC6D0\uAC70\uB9AC\uACF5\uACA9\uD15C0000.png"
+    - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+    - ProjectSettings/ProjectSettings.asset
+    - 
+    m_Values: 000000000000000000000000
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0
